@@ -1,0 +1,4 @@
+├── README.md
+├── Detect_and_Fix_Bias_in_Medical_data_set_.ipynb
+├── requirements.txt
+└── unbiased_medical_data.csv (Generated output)
